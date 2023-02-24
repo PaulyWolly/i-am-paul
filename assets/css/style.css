@@ -1115,13 +1115,3 @@ div.scroll {
 p.text-left {
 	text-align: justify !important;
 }
-
-.close-text-link {
-	margin-top: 20px;
-	color: blue;
-}
-
-.close-text-link:hover {
-	text-decoration: underline;
-	cursor: pointer !important;
-}
