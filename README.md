@@ -15,3 +15,7 @@ Resume site I created as my newly developed online portfolio
   - CI-CD with Netlify
   - Youtube video rendering in Angular pages
   - CRUD operations
+
+Website created for Paul Welby with links to Resume, and Portfolio.
+
+link: http://i-am-paul.netlify.com
